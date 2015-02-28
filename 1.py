@@ -1,0 +1,5 @@
+# -*- coding: cp1254 -*-
+print "6/2"
+print "selam"
+print """bu üç týrnaklý satýrlarýn ilki
+bu da ikincisi"""

@@ -1,0 +1,18 @@
+# -*- coding: cp1254 -*-
+
+m = input("Kütle[kg]: ")
+V = input("Hýz[m/s^2]: ")
+
+E = (1.0/2)*m*(V**2)
+
+print "Enerji", E, "J"
+
+# guray@gurayyildirim.com.tr
+# www.otokon.itu.edu.tr/forum
+
+
+# istihza.com - online+basýlý
+# Mustafa Baþer - basýlý
+# programarcadegames.com
+
+# youtube.com/gryyldrm

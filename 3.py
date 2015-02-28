@@ -1,0 +1,5 @@
+# -*- coding: cp1254 -*-
+
+sayi = input("kökü alýnacak sayý: ")
+
+print sayi**0.5

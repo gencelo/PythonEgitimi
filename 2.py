@@ -1,0 +1,6 @@
+# -*- coding: cp1254 -*-
+
+isim = raw_input("Ýsminizi girin: ")
+sayi = input("Kaç kez yazýlsýn?: ")
+
+print isim*sayi
